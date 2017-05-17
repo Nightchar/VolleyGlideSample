@@ -7,9 +7,6 @@ import com.android.volley.Request;
 import com.android.volley.RequestQueue;
 import com.android.volley.toolbox.Volley;
 
-import retrofit2.Retrofit;
-import retrofit2.converter.gson.GsonConverterFactory;
-
 /**
  * Created by nikhil1804 on 17-05-2017.
  */
